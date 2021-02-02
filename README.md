@@ -1,2 +1,2 @@
 # Penguin_Game
-Fun randomized penguin game created using JavaScript
+Fun randomized penguin game
